@@ -1,0 +1,14 @@
+{
+  "name": "projeto_hotel",
+  "version": "1.0.0",
+  "description": "Projeto de um hotel para treinar conceitos de Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JessanyKaline",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
